@@ -1,0 +1,70 @@
+body{
+  padding: 2px
+}
+
+#cover {
+  margin-top: 25vh;
+}
+
+#chat-title {
+  display: none;
+}
+
+#scrollable {
+  /* background-color:#f2f2f2; */
+  height: 500px;
+  overflow-x: scroll;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding-bottom: 5px;
+}
+
+.p{
+  padding-top: 30px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.hiddenDiv{
+  visibility: hidden;
+}
+
+#center{
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.mood{
+  background-color: rgb(157, 186, 213, 0.1);
+  padding: 10px;
+}
+
+.transportation{
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.food{
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.housing{
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.help{
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.back{
+  background-color: rgb(157, 186, 213, 0.1);
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
