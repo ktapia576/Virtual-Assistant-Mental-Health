@@ -1,3 +1,6 @@
+# ignore nodemon.json
+nodemon.json
+
 # Logs
 logs
 *.log
