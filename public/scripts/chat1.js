@@ -1,4 +1,4 @@
-var botui = new BotUI('my-botui-app');
+var botui = new BotUI('my-botui-container');
 
 let query='/results?' //query for GET Method
 
@@ -187,7 +187,7 @@ function printEnd(){
       content: "Have a great day. Bye!"
     })
   })
-  redirect()
+  //redirect()
 }
 
 let redirect = () => {
