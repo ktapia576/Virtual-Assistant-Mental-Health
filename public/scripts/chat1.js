@@ -7,6 +7,7 @@ $("#clicker").on('click' , ()=>{
   $('#navbar').css("margin-bottom", '5vh')
   $('#cover').css("display" , "none")
   $('#chat-title').css("display" , "block")
+  $('#note').css("display" , "none")
   start()
 })
 
