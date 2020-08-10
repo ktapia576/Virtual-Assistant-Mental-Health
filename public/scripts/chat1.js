@@ -14,11 +14,11 @@ let start = () => {
   botui.message.bot({
     delay: 1000,
     //photo: "img/icon.png",
-    content: 'Nice to meet you! I am a virtual assistant.'
+    content: 'Nice to meet you! I am your virtual assistant.'
   }).then(function(){
     botui.message.add({
       delay: 1500,
-      content: 'Do you need assistance today?'
+      content: 'Do you need any assistance today?'
   }).then(function(){
     return botui.action.button({
       delay: 1000,

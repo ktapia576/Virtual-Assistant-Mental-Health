@@ -34,14 +34,14 @@ button.botui-actions-buttons-button {
     color: white;
     padding: 10px 15px 10px 15px;
     border-radius: 30px;
-    background-color: #6466BC;
+    background-color: #147efb;
     box-shadow: 0;
 }
 
 .botui-message-content.human {
     float:right;
     margin-right:10px;
-    background: #6466BC;
+    background: #147efb;
     color:white;
 }
 
